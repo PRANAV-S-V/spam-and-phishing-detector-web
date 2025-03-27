@@ -1,0 +1,99 @@
+Here are some common spam message formats you can use to train your ML model. I've categorized them into different types of spam:
+
+### **1. Phishing Emails (Bank Scams)**
+```
+Subject: Urgent: Your Account Will Be Suspended!
+
+Dear Valued Customer,  
+
+We have noticed suspicious activity on your account. To prevent your account from being suspended, please verify your details immediately by clicking the link below:  
+
+[Fake Bank Link]  
+
+Failure to do so will result in permanent account suspension.  
+
+Best Regards,  
+[Bank Name] Security Team
+```
+
+### **2. Lottery Scams**
+```
+Subject: Congratulations! You Have Won $1,000,000  
+
+Dear Lucky Winner,  
+
+We are pleased to inform you that you have won our international lottery! Your email was randomly selected from a global database. To claim your prize, please provide your name, address, phone number, and bank details.  
+
+Hurry! This offer expires in 48 hours!  
+
+Best Regards,  
+Global Lottery Commission  
+```
+
+### **3. Tech Support Scam**
+```
+Subject: Immediate Action Required – Virus Detected!  
+
+Dear User,  
+
+Our system has detected malware on your device. Immediate action is required to avoid data loss. Please call our support team at +1-800-XXX-XXXX or download the security patch from the link below:  
+
+[Fake Antivirus Link]  
+
+Failure to act now may result in permanent data loss.  
+
+Regards,  
+Microsoft Support Team
+```
+
+### **4. Job Offer Scam**
+```
+Subject: High-Paying Remote Job – Work from Home!  
+
+Dear Candidate,  
+
+We have reviewed your profile and found you suitable for a remote position with a salary of $5000 per month. No experience needed!  
+
+Click the link below to apply now:  
+
+[Fake Job Portal]  
+
+Spots are filling fast! Secure your job now.  
+
+HR Team,  
+[Fake Company Name]
+```
+
+### **5. Free Gift Scams**
+```
+Subject: Congratulations! You Won a Free iPhone!  
+
+Dear User,  
+
+You have been randomly selected to receive a brand-new iPhone 15! Claim your prize by clicking the link below and paying a small shipping fee of $5.  
+
+[Fake Offer Link]  
+
+Act fast! This offer is available for 24 hours only.  
+
+Best,  
+Apple Rewards Team
+```
+
+### **6. Bitcoin & Investment Scams**
+```
+Subject: Double Your Money in 24 Hours!  
+
+Hello Investor,  
+
+We have an exclusive investment opportunity that guarantees 200% returns in just 24 hours. Invest a minimum of $500 and watch your money grow instantly!  
+
+Join now: [Fake Crypto Site]  
+
+Don’t miss this once-in-a-lifetime opportunity!  
+
+Best Regards,  
+Crypto Profits Ltd.
+```
+
+Do you need more specific variations or modifications based on a dataset?
